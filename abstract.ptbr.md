@@ -1,0 +1,2 @@
+### Resumo
+Este artigo aborda a aplicação de visão computacional em projetos de futebol robótico, destacando o projeto Dynamo e suas implicações para sistemas de percepção em robótica. O trabalho explora métodos para enable robots a interpretar ambientes dinâmicos usando processamento de imagens, com focos em detecção de objetos e navegação autônoma.
